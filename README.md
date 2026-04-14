@@ -1,10 +1,7 @@
-- Hi, I’m Yair Ballinas | B.S in Computer Science | May 2025 Graduate
-- I’m interested in Python and C++ development. I enjoy the challenge of building efficent systems
-  and collaborating with others.
-- I am currently looking for my next challenge! Let's connect if you're hiring for Junior/Associate
-  SE roles!
+Hi, I'm Yair Ballinas | Software Developer | B.S. Computer Science, UHD '25
 
-<!---
-Yariee/Yariee is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a recent CS graduate and newly minted software developer at Reynolds and Reynolds. I love the full-stack world — from crafting responsive UIs to designing backend APIs and working with databases.
+
+Outside of my day job, I enjoy building personal projects that challenge me to learn new technologies. Check out my pinned repos to see what I've been working on!
+
+Always open to connecting with fellow developers and tech enthusiasts.
